@@ -1,0 +1,14 @@
+html, body {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+}
+
+.app {
+  border: none;  /* Hide iframe border. */
+  height: 100%;
+  width: 100%;
+}

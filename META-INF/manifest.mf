@@ -1,0 +1,49 @@
+Manifest-Version: 1.0
+
+Name: manifest.webapp
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: Oo0ejQxG9o1Li7FOxMzFlw==
+SHA1-Digest: F998kZR1TbClthf3or0BOiQLfwc=
+SHA256-Digest: 14TkW5ZO+Qo5FV2emT3fRcfF7oVwCewnkJ40Z1tjdZs=
+
+Name: sw_bundle.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: ut2GRiMWHmBKfJGrA9NbDQ==
+SHA1-Digest: ohPRyrHY9Y/xmSeCmQhwUWfQW6Q=
+SHA256-Digest: qfRsAtIgk93hVMt4KxTgpNNETxCNjMhstPdj3wMGCR8=
+
+Name: assets/icons/duo_128.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: s0MKbK3T0XcX8Y2f/QZJNg==
+SHA1-Digest: S4cWHXCXPFh/N9X+PsFp/1qyHw0=
+SHA256-Digest: Y7wHPi86RvU00CtEgLGDdwMgYWnUW7zkkqPrXzjTH8o=
+
+Name: assets/icons/duo_64.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: SbXs2PiLOzpTqy7ZLeHjzQ==
+SHA1-Digest: THYrqFAUBjiRod/Ktyeteo+Ghyo=
+SHA256-Digest: MdwAmpUj2lC6y6t4AM9RkUDC39Zm8npXC6Smufd/y80=
+
+Name: css/app.css
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 2Kf0VZOhYefo3FFBIIRoyQ==
+SHA1-Digest: 65ekEvEcCxKhGL68Eyy8jE/Tgus=
+SHA256-Digest: jbvA6YthALaohAJ7HOoyG/5qJ+03Ait0mSZrSr6XFZY=
+
+Name: index.html
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: QYZOB4NcGoNI5/uR7Uw62A==
+SHA1-Digest: eg5cbnnGzEpQAEC5gg2jarXpB/Y=
+SHA256-Digest: S7RHaI9j0jSVLtX4Ih4Kd5OpDDnt7V2U48ubWajz3c0=
+
+Name: app_bundle.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: AYgWFNll6KhgMw7+KPnZ/w==
+SHA1-Digest: joLo22mhputaQTt03NBeKdJCG+8=
+SHA256-Digest: D91kSSMrDYUZYX72fqQsK7V8uZLKtcpvkmF4SBTNV1E=
+
+Name: META-INF/ids.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: VXOGSP9aF6ZBH3dOZmRMGg==
+SHA1-Digest: Q6qoeeZetXH/SfQ2qB3TmDH5FnI=
+SHA256-Digest: ee9Zv1CGSus/Z3nGVjznzpN4e4RY216rJpjNbdjUWBw=
